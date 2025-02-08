@@ -3,7 +3,7 @@
 
 🚀 **Experience the power of music with a sleek and fully responsive Spotify Clone!** This project recreates core Spotify functionalities, allowing users to browse albums, play songs, and control playback with a stylish and user-friendly interface.  
 
-![Spotify Clone Preview](https://github.com/Dhirendra22vish/Spotify-Clone/blob/9ec144c8e11e85e0aeb462fe659427e671eca8d7/Screenshot_8-2-2025_143339_127.0.0.1.jpeg) *(Replace with your project screenshot!)*  
+![Spotify Clone Preview](https://github.com/Dhirendra22vish/Spotify-Clone/blob/9ec144c8e11e85e0aeb462fe659427e671eca8d7/Screenshot_8-2-2025_143339_127.0.0.1.jpeg)   
 
 ---
 
