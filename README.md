@@ -1,12 +1,9 @@
-Here’s an improved **README.md** description for your **Spotify Clone** with a more engaging and professional touch. 🚀  
-
----
 
 # **🎵 Spotify Clone – A Modern Music Player**  
 
 🚀 **Experience the power of music with a sleek and fully responsive Spotify Clone!** This project recreates core Spotify functionalities, allowing users to browse albums, play songs, and control playback with a stylish and user-friendly interface.  
 
-![Spotify Clone Preview](https://your-image-link.com) *(Replace with your project screenshot!)*  
+![Spotify Clone Preview](https://github.com/Dhirendra22vish/Spotify-Clone/blob/9ec144c8e11e85e0aeb462fe659427e671eca8d7/Screenshot_8-2-2025_143339_127.0.0.1.jpeg) *(Replace with your project screenshot!)*  
 
 ---
 
@@ -29,33 +26,6 @@ Here’s an improved **README.md** description for your **Spotify Clone** with a
 
 ---
 
-## **🚀 Getting Started**  
-
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
-```
-
-### **2️⃣ Open the Project**  
-Simply open `index.html` in your browser **or** use **Live Server** in VS Code.  
-
-### **3️⃣ Run a Local Server (Recommended)**  
-For full functionality, start a local server:  
-```sh
-npx http-server
-```
-Then, visit: `http://localhost:8080/`  
-
----
-
-## **📸 Screenshots & Demo**  
-
-*(Add screenshots of your project here!)*  
-
-🎥 **Live Demo**: [Try it out!](https://your-live-demo-link.com) *(If deployed!)*  
-
----
 
 ## **🤝 Contributing**  
 
