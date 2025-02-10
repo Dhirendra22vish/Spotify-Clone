@@ -36,8 +36,8 @@ Want to improve the project? **Fork the repo, create a new branch, and submit a 
 ## **📬 Connect with Me**  
 
 📧 **Email**: dhiru7521071887gmail.com  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dhirendra-vishwakarma-53259a292/)  
-💻 **GitHub**: [Your GitHub](https://github.com/Dhirendra22vish)  
+🔗 **LinkedIn**:(https://www.linkedin.com/in/dhirendra-vishwakarma-53259a292/)  
+💻 **GitHub**:(https://github.com/Dhirendra22vish)  
 
 ---
 
